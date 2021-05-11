@@ -1,7 +1,8 @@
 
-# from 3dvectors.arecontent import*
-# from 3dvectors.intersection import*
-from blabla.ray_tri_intersect import*
+# from dvectors.arecontent import*
+# from dvectors.intersection import*
+from dvectors.ray_tri_intersect import*
+
 def main():
     #print(intersection((6, 8, 4), (6, 7, 0), (6, 8, 2), (6, 7, 4)))
     #print(ray_tri_intersect((0,0,-1), (0,0,1), (-0.5,0,0), (-1,2,0), (2,0,1)))
